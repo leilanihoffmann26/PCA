@@ -1,2 +1,2 @@
 # PCA
-PCA Tutorial
+PCA tutorials just for fun
